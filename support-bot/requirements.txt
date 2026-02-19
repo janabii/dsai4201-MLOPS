@@ -1,0 +1,6 @@
+# support_bot/requirements.txt
+flask
+streamlit
+requests
+mistralai
+python-dotenv
